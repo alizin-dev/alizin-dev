@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://saraiva89.com/cv/images/dev.gif" width="100"/>
+  <img src="https://telegra.ph/file/2374532682a1f74093351.jpg" width="100"/>
 
 </div>
 
