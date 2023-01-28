@@ -6,35 +6,35 @@
 
 <h1 align="center">
 
-  ##HELLO WORLD!
+  ### HELLO WORLD!
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
 </h1>
 
-##QUER TER O MY BOT , FEITO POR MIM, E POR UM GRINGO?
+### QUER TER O MY BOT , FEITO POR MIM, E POR UM GRINGO?
 
-##OBS : ELE NÃO TEM LINGUAGEM PORTUGUÊS!
+### OBS : ELE NÃO TEM LINGUAGEM PORTUGUÊS!
 
-##MAS SE QUISER CONECTASSE... QR CODE DELE AKI;
+### MAS SE QUISER CONECTASSE... QR CODE DELE AKI;
 
 [SCAN QR](https://levanter.onrender.com/md)
 
- #🕵️ SOBRE MIM:  
+ ### 🕵️ SOBRE MIM:  
 
  
 
- ###-  🙅🏽‍♂️ TENHO 19 ANOS;
+ ### -  🙅🏽‍♂️ TENHO 19 ANOS;
 
- ###-  🤓 SONHO EM SER UM PROGRAMADOR BEM SUCEDIDO;
+ ### -  🤓 SONHO EM SER UM PROGRAMADOR BEM SUCEDIDO;
 
- ###- 😈 ESTOU CONSEGUINDO!
+ ### - 😈 ESTOU CONSEGUINDO!
 
  ### -  🎓 ATUALMENTE FAÇO UM CURSO TÉCNICO EM INFORMÁTICA NA NAIPE;
 
  ### - 🧠 ESTOU APRENDENDO;
 
- ###- JÁ FAÇO... 
+ ### - JÁ FAÇO... 
 
 ### :hammer_and_wrench:LINGUAGENS/FERRAMENTAS QUE ESTUDO/USO:
 
