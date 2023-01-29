@@ -18,7 +18,7 @@
 
 ### MAS SE QUISER CONECTASSE... QR CODE DELE AKI;
 
-[SCAN QR](https://levanter.onrender.com/md)
+[SCAN QR](https://session-md-by-zeeoneofc.zeeoneofc.repl.co/)
 
  ### 🕵️ SOBRE MIM:  
 
